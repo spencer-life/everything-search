@@ -1,0 +1,11 @@
+{
+  "name": "everything-search",
+  "version": "1.0.0",
+  "description": "Fast cross-drive filename search for WSL2 using Everything (es.exe). Finds files in ~50ms across all NTFS drives and WSL filesystem.",
+  "author": {
+    "name": "Spencer Schofield"
+  },
+  "repository": "https://github.com/spencer-life/everything-search-plugin",
+  "license": "MIT",
+  "keywords": ["search", "everything", "wsl", "files", "cross-drive"]
+}

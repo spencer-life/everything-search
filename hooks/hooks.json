@@ -1,0 +1,17 @@
+{
+  "description": "Everything Search plugin hooks",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/verify-everything.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
