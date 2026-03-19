@@ -5,7 +5,7 @@
   "author": {
     "name": "Spencer Schofield"
   },
-  "repository": "https://github.com/spencer-life/everything-search-plugin",
+  "repository": "https://github.com/spencer-life/everything-search",
   "license": "MIT",
   "keywords": ["search", "everything", "wsl", "files", "cross-drive"]
 }
